@@ -56,8 +56,10 @@ Steps in page ranksolver:
 
 
 References:
-	1. Global Software Support - https://www.youtube.com/watch?v=P8Kt6Abq_rM&list=PLH7W8KdUX6P2n4XwDiKsEU6sBhQj5cAqa&index=4	
+	1. Global Software Support - https://www.youtube.com/watch?v=P8Kt6Abq_rM&list=PLH7W8KdUX6P2n4XwDiKsEU6sBhQj5cAqa&index=4
+	
 	2. Chuck Severance - https://www.youtube.com/watch?v=9gtLOS87ZPs
+	
 	3. Page Rank Simulator - https://computerscience.chemeketa.edu/cs160Reader/_static/pageRankApp/index.html
 
 
